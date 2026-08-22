@@ -1,6 +1,6 @@
 ---
 name: pearls-to-chain
-version: 2.1.0
+version: 2.1.2
 agent_created: true
 category: productivity
 author: 数字外脑工作室
