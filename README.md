@@ -71,4 +71,4 @@ You don't need to "think it through first". Daring to speak beats speaking clear
 
 ---
 
-*H2O 工作室 · H2O Studio*
+**H2O Studio — by MaolinWang-H2O · H2O 工作室**
