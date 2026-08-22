@@ -1,4 +1,4 @@
-# 散珠串成链 · pearls-to-chain
+# pearls-to-chain · 散珠串成链
 
 > Don't let your stray thoughts disappear — leave them with us, and we'll quietly string them into a bracelet you'll be proud to wear.
 >
@@ -71,4 +71,4 @@ You don't need to "think it through first". Daring to speak beats speaking clear
 
 ---
 
-*maolin工作室 · Digital Brain Studio*
+*H2O 工作室 · H2O Studio*
